@@ -15,14 +15,10 @@ body {
 
 ul {
   display: flex;
-  list-style-type: n2one;
+  list-style-type: none;
   color: #686565;
   font: 30px/normal Poppins;
   gap: 78px
-}
-
-li {
-  list-style-type: none;
 }
 
 header {
